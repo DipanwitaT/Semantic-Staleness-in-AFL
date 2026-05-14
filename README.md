@@ -155,3 +155,5 @@ Saved in:
 
 ```bash
 logs/
+### Plots
+plots/
